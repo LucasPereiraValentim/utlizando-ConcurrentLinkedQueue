@@ -1,0 +1,1 @@
+# Projeto idealizado para colocar em prática meus estudos em programação paralela e concorrente. Nesse mini projeto fiz uso de Thread com fila utilizando a classe ConcurrentLinkedQueue.
